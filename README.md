@@ -1,4 +1,4 @@
-[⚠️ Suspicious Content] <h1 align="center">Hi 👋, I'm Isaac</h1>
+<h1 align="center">Hi 👋, I'm Isaac</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaaaaac21" alt="isaaaaac21" /></a> </p>
