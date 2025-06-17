@@ -3,9 +3,9 @@
 
 <div align="center">
 
-- 🌱 I'm currently learning **React.js | Git**
-- 💬 Ask me about **React | Front-End |**
-- 📫 How to reach me **ishak.hadj14@gmail.com**
+ 🌱 I'm currently learning **React.js | Git**
+ 💬 Ask me about **React | Front-End |**
+ 📫 How to reach me **ishak.hadj14@gmail.com**
 
 </div>
 
