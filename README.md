@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My portfolio website**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://isaaq-hk.is-a.dev/](https://isaaq-hk.is-a.dev/)
 
