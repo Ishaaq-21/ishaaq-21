@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaaq</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-- 🔭 I’m currently working on **My portfolio website**
+- 🔭 I’m currently working on **Voyanta Tourist Website**
 
 - 🌱 I’m currently learning **Next.js**
 
