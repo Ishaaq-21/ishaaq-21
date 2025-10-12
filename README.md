@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Voyanta Tourist Website**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently building **projects**
 
 - 👨‍💻 All of my projects are available at [https://isaaq-hk.is-a.dev/](https://isaaq-hk.is-a.dev/)
 
