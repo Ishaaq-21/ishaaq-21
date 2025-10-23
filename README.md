@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Shopcart Ecommerce website**
 
-- 🌱 I’m currently building **projects**
+- 🌱 I’m currently learning **Vercel AI SDK**
 
 - 👨‍💻 All of my projects are available at [https://isaaq-hk.is-a.dev/](https://isaaq-hk.is-a.dev/)
 
